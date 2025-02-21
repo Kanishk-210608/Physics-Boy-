@@ -1,0 +1,6 @@
+OPENAI_API_KEY=sk-...aCAA
+TELEGRAM_BOT_TOKEN=your_telegram_bot_token
+WEATHER_API_KEY=your_weather_api_key
+DATABASE_URL=sqlite:///db.sqlite3
+ADMIN_USER=PhysicsBoy
+ADMIN_PASSWORD=## 902494 ## kj@
